@@ -1,4 +1,4 @@
-# Laboratorio-Procesamiento-Digital-de-Senales-2021-1
+# Laboratorio-Procesamiento-Digital-de-Senales
 
 Repositorio para el laboratorio de procesamiento de señales-W10:13 2021-1, modalidad presencial y virtual de ingenieria electronica y de telecomunicaciones. Universidad de Antioquia, Medellín, Colombia.
 
